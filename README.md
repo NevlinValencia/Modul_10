@@ -8,3 +8,5 @@ Program ini adalah program yang menggunakan bahasa Go untuk membagi sejumlah ika
 maksimum, menghitung total berat ikan di setiap wadah, dan menentukan rata-rata berat ikan per wadah. 
 
 Nomer No3
+Program ini merupakan program dengan bahasa Go untuk membantu menghitung statistik berat balita, yaitu nilai 
+minimum, maksimum, dan rata-rata. Program ini dibuat untuk menerima data berat balita dari pengguna, memprosesnya, dan memberikan hasil analisis dalam bentuk yang mudah dipahami.
